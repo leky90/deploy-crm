@@ -1,0 +1,1 @@
+import{j as e}from"./index-BY9egYhW.js";function s(){return e.jsxDEV("div",{className:"",children:"Order Update"},void 0,!1,{fileName:"/Users/ldky90/Public/Training/crm/src/app/modules/customer/pages/order-update.page.tsx",lineNumber:2,columnNumber:10},this)}export{s as default};
