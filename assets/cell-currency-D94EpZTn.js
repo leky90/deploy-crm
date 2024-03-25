@@ -1,0 +1,1 @@
+import{j as e}from"./index-CahGm5j_.js";function n(r=0){return new Intl.NumberFormat("vi-VN",{style:"currency",currency:"VND"}).format(r)}function t({value:r}){return e.jsxDEV("div",{className:"truncate",children:n(r)},void 0,!1,{fileName:"/Users/ldky90/Public/Training/crm/src/app/components/cell-currency.tsx",lineNumber:8,columnNumber:10},this)}export{t as C,n as f};
