@@ -1,0 +1,1 @@
+function i(e){var r;const n=new FormData;for(const o in e)if(((r=e[o])==null?void 0:r.constructor.name)==="FileList"){const c=e[o];for(let t=0;t<c.length;t++)n.append(o,c.item(t))}else n.append(o,e[o]);return n}export{i as c};
