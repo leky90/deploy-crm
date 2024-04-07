@@ -1,0 +1,1 @@
+import{j as t,f as e,R as r}from"./index-XwE6gQmn.js";import{u as i}from"./use-auth.cache-CFuprbIQ.js";function R({children:s,type:a}){const{isUser:o,isAdmin:u}=i();switch(a){case"user":return o()?s:t.jsx(e,{to:r.NOT_FOUND});case"admin":return u()?s:t.jsx(e,{to:r.NOT_FOUND});default:return s}}export{R};

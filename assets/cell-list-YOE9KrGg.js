@@ -1,0 +1,1 @@
+import{j as r}from"./index-XwE6gQmn.js";function n({list:e}){return r.jsx("ul",{className:"list-item",children:e==null?void 0:e.map((a,s)=>r.jsx("li",{className:"truncate",children:a},s))})}export{n as C};

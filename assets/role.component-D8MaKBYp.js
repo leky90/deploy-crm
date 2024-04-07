@@ -1,0 +1,1 @@
+import{j as s}from"./index-XwE6gQmn.js";import{u as a}from"./use-auth.cache-CFuprbIQ.js";function o({children:r,type:t}){const{isUser:e,isAdmin:n}=a();switch(t){case"user":return e()?r:s.jsx(s.Fragment,{});case"admin":return n()?r:s.jsx(s.Fragment,{});default:return s.jsx(s.Fragment,{})}}export{o as R};

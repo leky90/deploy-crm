@@ -1,0 +1,1 @@
+import{u as e}from"./useMutation-Czv1wBp1.js";import{a as r}from"./Helmet-DUuvCvTm.js";import{a as n,Q as o}from"./index-XwE6gQmn.js";function a(t){return r({method:"post",url:"/customer_history/order_cancel",data:t})}function c(){const{mutateAsync:t}=e({mutationFn:a,onSuccess:()=>{n.invalidateQueries({queryKey:o.CUSTOMER_HISTORY})}});return{mutationCancelOrder:t}}export{c as u};
