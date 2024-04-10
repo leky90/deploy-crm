@@ -1,0 +1,1 @@
+import{j as s}from"./index-Do2QKNGk.js";import{d as t}from"./button-e30OhjXb.js";function l({children:e,className:r}){return s.jsxDEV("div",{className:t("truncate",r),children:e||"-"},void 0,!1,{fileName:"/Users/ldky90/Public/Training/crm/src/app/components/cell-text.tsx",lineNumber:9,columnNumber:10},this)}export{l as C};
